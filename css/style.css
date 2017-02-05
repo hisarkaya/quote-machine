@@ -1,0 +1,20 @@
+body {
+  padding-top: 40px;
+  padding-bottom: 40px;
+  background-color: #000;
+  color: #fff;
+}
+
+.main_box {
+  max-width: 500px;
+  padding: 15px;
+  margin: 0 auto;
+  font-size: 22px;  
+}
+
+.source {
+  font-size: 18px;  
+  padding-top: 15px;
+  padding-bottom: 25px;  
+  color: #acacac;
+}
